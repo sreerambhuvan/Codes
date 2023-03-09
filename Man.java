@@ -9,7 +9,7 @@
 		System.out.println("fact is "+fact);
 	}
 }*/
-//------------------------------------------------------find sum of digits in number
+//--------------------------------------------jnjhn------find sum of digits in number
 /*public class codes{
 	public static void main(String []args){
 		int n=1234;
